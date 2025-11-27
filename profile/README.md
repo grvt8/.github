@@ -34,7 +34,7 @@ Below are some of the initiatives currently in motion inside the GRVT8 constella
 ### **1. Keihatsu**
 A next-generation manhwa/manga/webtoon reader focused on speed, clarity, and a premium experience.
 
-[![GRVT8/keihatsu - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=GRVT8&repo=keihatsu&bg_color=0D1117&text_color=c9d1d9&title_color=5DA9FF&icon_color=5DA9FF&border_radius=8&hide_border=true&description_lines_count=2)](https://github.com/GRVT8/Keihatsu)
+[![GRVT8/keihatsu - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=GRVT8&repo=Keihatsu&bg_color=0D1117&text_color=c9d1d9&title_color=5DA9FF&icon_color=5DA9FF&border_radius=8&hide_border=true&description_lines_count=2)](https://github.com/GRVT8/Keihatsu)
 
 ---
 
